@@ -1,13 +1,39 @@
 {
-    "people": [
+    "bonus": [
         {
-        "id": 0,
-        "name": "John"
+        "Agent_Company": "P00",
+        "Policy_Number": "LU5124625",
+        "Issue_Date": "7/3/2015",
+        "Credit": "1126.80",
+        "Producer_Owner": "000Q0T4424",
+        "Recruiter_Owner": "000Q091206",
+        "Sub_BGA_Owner": "",
+        "BGA_Owner": "000T02Q177",
+        "Producer_Owner_Name": "COSTCO Ins Agy",
+        "Recruiter_Owner_Name": "COSTCO Ins Agy",
+        "Sub_BGA_Owner_Name": "",
+        "BGA_Owner_Name": "Affinity Partnership",
+        "IMO_Owner_Name": "",
+        "Home_Office_Owner_Name": "LAD-IDG",
+        "1 percent": "14.2680"
         },
-
+        
         {
-            "id": 1,
-            "name": "Lovelight"
-        }
+            "Agent_Company": "P00",
+            "Policy_Number": "LU5111879",
+            "Issue_Date": "7/3/2015",
+            "Credit": "1429.08",
+            "Producer_Owner": "000Q0T4430",
+            "Recruiter_Owner": "000Q091206",
+            "Sub_BGA_Owner": "",
+            "BGA_Owner": "000T02Q177",
+            "Producer_Owner_Name": "Kevin B Center",
+            "Recruiter_Owner_Name": "COSTCO Ins Agy",
+            "Sub_BGA_Owner_Name": "",
+            "BGA_Owner_Name": "Affinity Partnership",
+            "IMO_Owner_Name": "",
+            "Home_Office_Owner_Name": "LAD-IDG",
+            "1 percent": "14.2908"
+            }
     ]
 }
